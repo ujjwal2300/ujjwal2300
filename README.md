@@ -1,4 +1,7 @@
-## Hi there 👋 I'm a Computer Science Engineering (CSE) graduate with a strong foundation in both web development and data analytics.
+## Hi there 👋 
+
+## About Me 🚀
+I'm a Computer Science Engineering (CSE) graduate with a strong foundation in both web development and data analytics.
 
 🧑‍💻 Skills & Technologies:
 Web Development: HTML, CSS, JavaScript, React, Node.js
