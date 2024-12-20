@@ -5,9 +5,12 @@ I'm a Computer Science Engineering (CSE) graduate with a strong foundation in bo
 
 ## 🧑‍💻 Skills & Technologies:
 
-## Web Development: HTML, CSS, JavaScript, React, Node.js
-## Data Analytics: SQL, Python, Power BI
-## Other Tools & Technologies: Git, APIs, Data Visualization, Problem Solving
+## Web Development: 
+HTML, CSS, JavaScript, React, Node.js
+## Data Analytics: 
+SQL, Python, Power BI
+## Other Tools & Technologies:
+Git, APIs, Data Visualization, Problem Solving
 
 ## 💼 Experiences:
 
