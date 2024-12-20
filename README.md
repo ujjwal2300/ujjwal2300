@@ -4,9 +4,11 @@
 Web Development: HTML, CSS, JavaScript, React, Node.js
 Data Analytics: SQL, Python, Power BI
 Other Tools & Technologies: Git, APIs, Data Visualization, Problem Solving
+
 💼 Experience:
 I have hands-on experience in front-end development using React and back-end development with Node.js, creating dynamic and interactive web applications.
 I’ve worked extensively with SQL for database management and querying, Python for data analysis, and Power BI for creating insightful reports and visualizations.
+
 🎓 Projects:
 Built a full-stack web application using React and Node.js.
 Developed a data analytics project involving SQL queries, data processing with Python, and visual reporting with Power BI.
